@@ -39,3 +39,5 @@ mesu.apple.com
 huggy.app
 huggy.io
 tradersclub.com.br
+*.unisomamd.com.br/*
+unisomamd.com.br
